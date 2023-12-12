@@ -1,4 +1,4 @@
-https://github.com/a-bit-git/a-bit-git/assets/138126472/efe87868-e783-4f8f-81b8-4a568fda13c4
+![ABHINAV GUPTA](https://github.com/a-bit-git/a-bit-git/assets/138126472/b9ef0a1b-243a-4709-93fc-5a3868fb71e5)
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
 ![version :20.08.2021](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
