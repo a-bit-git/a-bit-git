@@ -1,5 +1,4 @@
-![Git-Abhi](https://github.com/a-bit-git/a-bit-git/assets/138126472/ef5dfe26-9720-4c28-bb67-e7d36d853c96)
-
+![Git-Abhi](https://github.com/a-bit-git/a-bit-git/assets/138126472/1941b813-fae4-41e7-a35c-c22c0abb38ac)
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
 ![version :20.08.2021](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
