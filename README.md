@@ -3,8 +3,8 @@
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🌱 &nbsp; I’m currently learning Full Stack Web Development
-- 💡 &nbsp; I'm looking for opportunities as a Software Engineer
+- 🌱 &nbsp; Currently learning Full Stack Web Development
+- 💡 &nbsp; Looking for opportunities as a Software Engineer
 - 🎓 &nbsp; Institute of Engineering & Technology, Lucknow (B.Tech 2017-21)
 - 📄 &nbsp; My [Resume](https://drive.google.com/file/d/1CqJoOAelUgnIOMNHqZAlMxR0F3nRoJuo/view?usp=sharing) for more details
 
