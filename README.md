@@ -25,4 +25,5 @@
 
 <a href="https://www.linkedin.com/in/abhinav1220/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:abhinav.gupta.1220@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a><img alt="Python" src="https://img.shields.io/badge/Python-D14836?style=flat&logo=Python&logoColor=white" /></a> &nbsp;
 
