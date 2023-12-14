@@ -6,7 +6,7 @@
 - 🌱 &nbsp; Currently learning Full Stack Web Development
 - 💡 &nbsp; Looking for opportunities as a Software Engineer
 - 🎓 &nbsp; Institute of Engineering & Technology, Lucknow (B.Tech 2017-21)
-- 📄 &nbsp; My [Resume](https://drive.google.com/file/d/1CqJoOAelUgnIOMNHqZAlMxR0F3nRoJuo/view?usp=sharing) for more details
+- 📄 &nbsp; My [Resume](https://drive.google.com/file/d/1enW4XFT6Q-Po7y9tAVxNhV26kpjKGhl_/view?usp=drive_link) for more details
 
 ### 🛠 &nbsp;Tech Stack
 
