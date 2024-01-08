@@ -1,4 +1,4 @@
-![Untitleddesign-ezgif com-crop(1)](https://github.com/a-bit-git/a-bit-git/assets/138126472/402884d9-cb92-437e-ab74-f64fa9ab6ee9)
+![Untitleddesign-ezgif com-crop](https://github.com/a-bit-git/a-bit-git/assets/138126472/407e5166-664a-4cc2-9c45-851c6a8848d7)
 
 Hello there !
 ### 👨🏻‍💻 &nbsp;About Me
