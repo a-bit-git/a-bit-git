@@ -1,4 +1,4 @@
-![15 JavaScript concepts that every JavaScript Programmer must know_](https://github.com/a-bit-git/a-bit-git/assets/138126472/610e5278-f83e-4726-84b4-3d11275488a0)
+![Untitleddesign-ezgif com-crop](https://github.com/a-bit-git/a-bit-git/assets/138126472/9d511fad-774c-4175-ba4c-56fe7f8c54cd)
 
 Hello there !
 ### 👨🏻‍💻 &nbsp;About Me
