@@ -1,5 +1,4 @@
 ![Untitleddesign-ezgif com-crop](https://github.com/a-bit-git/a-bit-git/assets/138126472/9d511fad-774c-4175-ba4c-56fe7f8c54cd)
-![wired-flat-1331-repository](https://github.com/a-bit-git/a-bit-git/assets/138126472/a03971c0-3e93-4327-ac55-64c16483c653)
 
 
 Hello there !
