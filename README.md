@@ -1,6 +1,7 @@
 ![Git-Abhi](https://github.com/a-bit-git/a-bit-git/assets/138126472/c07cb6d2-2900-40e1-a140-f874d086009d)
 
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
+### <img alt="handwavegif" src="![15 JavaScript concepts that every JavaScript Programmer must know_](https://github.com/a-bit-git/a-bit-git/assets/138126472/f1548f03-c963-4e04-8c8e-a7d366f33f31)
+" width='40' align="left"/> Hello there !
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 🌱 &nbsp; Currently learning Full Stack Web Development
